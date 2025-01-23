@@ -1,4 +1,4 @@
-# Your own statistic
+# Your own statistics
 This is a small program that will show you your own life statistics.
 Please enjoy!
 
